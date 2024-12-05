@@ -1,0 +1,27 @@
+1.array sorting / string sorting
+2. string lowercase and upper case
+3.array sort and reverse without any use inbulid function., merage two sorted array
+4. string and number palidrome and recursion 
+5.fabonaaci and factorial
+6. occurence of the number in array
+7. occurence of the char in string
+8. array sum for use the recursion
+9  Find the First Non-Repeated Character
+10. Sum of Digits (Recursion)
+11. Check if Two Strings are Anagrams
+12. Find the First Duplicate Character
+13. Find the First Pair of Duplicate Characters
+14. Flatten a Nested Array
+15. Remove Duplicates from an Array
+16. hasown property and check two bject have same properties
+17. slice, splice
+18. find the index of the object in array
+21. promies
+22. async await
+24. call,bind, apply
+25. proto, prototype
+26. hoisting
+27. closer
+28.setintervel, settimeout
+29.callback
+30 higher order function
